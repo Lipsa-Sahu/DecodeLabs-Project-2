@@ -35,3 +35,9 @@ Successfully analyzed the dataset and extracted meaningful business insights.
 - Cleaned Dataset
 - EDA Notebook
 - EDA Report
+
+## Google Colab Notebook
+
+Notebook File: Data_Cleaning_P1.ipynb     
+Download and open the notebook in Google Colab to view the code, outputs, and project workflow.
+
